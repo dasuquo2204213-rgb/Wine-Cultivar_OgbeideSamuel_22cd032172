@@ -1,5 +1,5 @@
-Name: yourName
-Matric Number: yourMatricNumber
+Name: ASUQUO DAVID
+Matric Number: 22CD032117
 Machine Learning Algorithm Used: RandomForestClassifier
 Model persistence method used: joblib
 Live URL of the hosted application: https://your-hosted-app-url.example
